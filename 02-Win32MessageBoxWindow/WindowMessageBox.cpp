@@ -16,13 +16,13 @@ COMPILER        : VC
 
 HW PLATFORM     : PC
 
-OPERATING-SYS   : None
+OPERATING-SYS   : Windows NT Family.
 
 --------------------------------------------------------------------
 */
 
 //Header file
-#include<windows.h>
+#include<windows.h> 
 
 //global function declaration.
 LRESULT CALLBACK WndProc(HWND,UINT,WPARAM,LPARAM);
