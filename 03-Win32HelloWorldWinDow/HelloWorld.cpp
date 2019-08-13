@@ -1,3 +1,26 @@
+/*! \brief
+
+Windows Programming by using c++.
+
+--------------------------------------------------------------------
+
+PROJECT         : 
+
+FILE            : 
+
+AUTHOR          : Babasaheb argade
+
+CREATION DATE   : 2019-07-08
+
+COMPILER        : VC
+
+HW PLATFORM     : PC
+
+OPERATING-SYS   : None
+
+--------------------------------------------------------------------
+*/
+
 #include<windows.h>
 
 LRESULT CALLBACK WndProc(HWND,UINT,WPARAM,LPARAM);
