@@ -1,5 +1,28 @@
+/*! \brief
+
+Windows Programming by using c++.
+
+--------------------------------------------------------------------
+
+PROJECT         : 
+
+FILE            : 
+
+AUTHOR          : Babasaheb argade
+
+CREATION DATE   : 2019-07-08
+
+COMPILER        : VC
+
+HW PLATFORM     : PC
+
+OPERATING-SYS   : Windows NT Family.
+
+--------------------------------------------------------------------
+*/
+
 //Header file
-#include<windows.h>
+#include<windows.h> 
 
 //global function declaration.
 LRESULT CALLBACK WndProc(HWND,UINT,WPARAM,LPARAM);
